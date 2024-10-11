@@ -1,0 +1,21 @@
+C:\Users\shrey\MyParliamentApp\bin\Debug\net8.0\MyParliamentApp.exe
+C:\Users\shrey\MyParliamentApp\bin\Debug\net8.0\MyParliamentApp.deps.json
+C:\Users\shrey\MyParliamentApp\bin\Debug\net8.0\MyParliamentApp.runtimeconfig.json
+C:\Users\shrey\MyParliamentApp\bin\Debug\net8.0\MyParliamentApp.dll
+C:\Users\shrey\MyParliamentApp\bin\Debug\net8.0\MyParliamentApp.pdb
+C:\Users\shrey\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.AssemblyInfoInputs.cache
+C:\Users\shrey\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.AssemblyInfo.cs
+C:\Users\shrey\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.csproj.CoreCompileInputs.cache
+C:\Users\shrey\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.dll
+C:\Users\shrey\MyParliamentApp\obj\Debug\net8.0\refint\MyParliamentApp.dll
+C:\Users\shrey\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.pdb
+C:\Users\shrey\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.genruntimeconfig.cache
+C:\Users\shrey\MyParliamentApp\obj\Debug\net8.0\ref\MyParliamentApp.dll
+D:\MCA 2024-26\Sem1\OOP LAB\RollNo(44)_Batch 3_Parliament\C#\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCA 2024-26\Sem1\OOP LAB\RollNo(44)_Batch 3_Parliament\C#\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.AssemblyInfoInputs.cache
+D:\MCA 2024-26\Sem1\OOP LAB\RollNo(44)_Batch 3_Parliament\C#\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.AssemblyInfo.cs
+D:\MCA 2024-26\Sem1\OOP LAB\RollNo(44)_Batch 3_Parliament\C#\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.csproj.CoreCompileInputs.cache
+D:\MCA 2024-26\Sem1\OOP LAB\RollNo(44)_Batch 3_Parliament\C#\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.dll
+D:\MCA 2024-26\Sem1\OOP LAB\RollNo(44)_Batch 3_Parliament\C#\MyParliamentApp\obj\Debug\net8.0\refint\MyParliamentApp.dll
+D:\MCA 2024-26\Sem1\OOP LAB\RollNo(44)_Batch 3_Parliament\C#\MyParliamentApp\obj\Debug\net8.0\MyParliamentApp.pdb
